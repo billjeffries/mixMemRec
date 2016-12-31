@@ -1,0 +1,2 @@
+# mixMemRec
+Mixed-membership Recommender
