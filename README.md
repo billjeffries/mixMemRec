@@ -1,6 +1,6 @@
 # Mixed-membership Recommender
 Mixed-membership Recommender based on this paper:<br/> 
-<a href="">Accurate and scalable recommendation using mixed-membership stochastic block models</a>
+<a href="https://arxiv.org/abs/1604.01170">Accurate and scalable recommendation using mixed-membership stochastic block models</a>
 
 # Alternative to Matrix Factorization
 This approach is an alternative to the matrix factorization approach currently implemented in Spark's
